@@ -1,4 +1,35 @@
 .slick-arrow.slick-prev,
 .slick-arrow.slick-next {
-  background: green;
+  background: #fcfcfc;
+  width: 47px;
+  height: 104px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.slick-prev {
+  left: 0;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+.slick-next {
+  right: 0;
+  border-bottom-left-radius: 7px;
+  border-top-left-radius: 7px;
+}
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+.custom-indicator {
+  bottom: -65px;
+}
+.custom-indicator li {
+  width: 50px;
+  height: 50px;
+  filter: grayscale(100%);
+}
+.custom-indicator li.slick-active {
+  filter: grayscale(0%);
 }
