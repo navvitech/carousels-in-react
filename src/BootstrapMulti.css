@@ -1,5 +1,5 @@
-.slick-arrow.slick-prev,
-.slick-arrow.slick-next {
+.BootstrapMulti .slick-arrow.slick-prev,
+.BootstrapMulti .slick-arrow.slick-next {
   background: #8ecb2f;
   width: 40px;
   height: 40px;
@@ -13,10 +13,10 @@
 .slick-next::before {
   display: none;
 }
-.slick-arrow.slick-prev {
+.BootstrapMulti .slick-arrow.slick-prev {
   left: -50px;
 }
-.slick-arrow.slick-next {
+.BootstrapMulti .slick-arrow.slick-next {
   right: -50px;
 }
 button {
@@ -36,4 +36,7 @@ button:hover {
   background: #7ac400;
   color: white;
   cursor: pointer;
+}
+.BootstrapMulti .slick-dots li button:before {
+  font-size: 15px;
 }

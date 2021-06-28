@@ -25,7 +25,7 @@ const NextBtn = (props) => {
 
 const Carousel = () => {
   return (
-    <div style={{ margin: "30px" }}>
+    <div style={{ margin: "30px" }} className="carousel">
       <h1>Basic carousel</h1>
       <Slider
         autoplay

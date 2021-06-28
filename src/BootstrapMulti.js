@@ -27,13 +27,17 @@ const NextBtn = (props) => {
 
 const BootstrapMultiCarousel = () => {
   return (
-    <div style={{ display: "flex", justifyContent: "center", marginTop: 50 }}>
+    <div
+      className="BootstrapMulti"
+      style={{ display: "flex", justifyContent: "center", marginTop: 50 }}
+    >
       <div style={{ width: "80%" }}>
         <Slider
           prevArrow={<PreviousBtn />}
           nextArrow={<NextBtn />}
           slidesToShow={4}
           slidesToScroll={3}
+          dots
         >
           {multiData.map((item) => (
             <Card item={item} />
