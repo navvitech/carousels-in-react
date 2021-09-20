@@ -1,0 +1,25 @@
+.line-indicator li {
+  /* border: 2px solid; */
+  height: 4px;
+  width: 70px;
+  background: lightgray;
+  border-radius: 5px;
+}
+
+.line-indicator li:hover {
+  background: gray;
+}
+
+.line-indicator li.slick-active {
+  background: blue;
+}
+.buttons {
+  background: orangered !important;
+  color: white !important;
+  transition: 700ms;
+}
+.buttons:hover {
+  /* background: white !important; */
+  /* color: orangered !important; */
+  transform: scale(1.1);
+}
