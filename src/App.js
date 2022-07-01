@@ -1,16 +1,16 @@
-import "./App.css";
+import './App.css';
 // import Carousel from "./Carousel";
-import MultiItemCarousel from "./MultiItemCrousel";
+import MultiItemCarousel from './MultiItemCrousel';
 // import BootstrapMultiCarousel from "./BootstrapMulti";
 // import Testimonial from "./Testimonial";
-import Ipl from "./Ipl";
+import Ipl from './Ipl';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       {/* <Carousel /> */}
       <MultiItemCarousel />
-      <Ipl />
+      {/* <Ipl /> */}
       {/* <BootstrapMultiCarousel /> */}
       {/* <Testimonial /> */}
     </div>
