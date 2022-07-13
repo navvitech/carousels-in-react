@@ -1,7 +1,7 @@
 # Different Carousels/Sliders in React.
 
-![Bootstrap ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681934/Screenshot_2022-07-13_at_8.34.48_AM_ooj9j7.png)
 ### Bootstrap ecommerce product slider
+![Bootstrap ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681934/Screenshot_2022-07-13_at_8.34.48_AM_ooj9j7.png)
 
 ![Flipkart ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681925/Screenshot_2022-07-13_at_8.39.28_AM_brmnbk.png)
 Flipkart ecommerce product slider
