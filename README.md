@@ -1,5 +1,6 @@
-#Different Carousels/Sliders in React.
-[](https://res.cloudinary.com/navtech/image/upload/v1657681934/Screenshot_2022-07-13_at_8.34.48_AM_ooj9j7.png)
+# Different Carousels/Sliders in React.
+
+[Bootstrap ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681934/Screenshot_2022-07-13_at_8.34.48_AM_ooj9j7.png)
 
 # Getting Started with Create React App
 
