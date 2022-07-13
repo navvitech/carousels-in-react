@@ -1,6 +1,10 @@
 # Different Carousels/Sliders in React.
 
 ![Bootstrap ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681934/Screenshot_2022-07-13_at_8.34.48_AM_ooj9j7.png)
+![Flipkart ecommerce product slider](https://res.cloudinary.com/navtech/image/upload/v1657681925/Screenshot_2022-07-13_at_8.39.28_AM_brmnbk.png)
+![Testimonial slider](https://res.cloudinary.com/navtech/image/upload/v1657681926/Screenshot_2022-07-13_at_8.36.23_AM_bpdgy2.png)
+![IPL slider](https://res.cloudinary.com/navtech/image/upload/v1657682048/Screenshot_2022-07-13_at_8.38.01_AM_ylakaq.png)
+![](https://res.cloudinary.com/navtech/image/upload/v1630322368/Flipkart_carousel_cxpudl.png)
 
 # Getting Started with Create React App
 
